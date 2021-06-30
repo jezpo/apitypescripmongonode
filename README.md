@@ -1,2 +1,2 @@
-# apitypescripmongonode
-practica de api para seminario de proframacion
+# apitypescritmongonode
+practica de api para seminario de programacion
